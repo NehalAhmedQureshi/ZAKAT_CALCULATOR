@@ -1,4 +1,4 @@
 # Zakar Calculator
-, HTML
-, CSS
-, JS
+*HTML
+*CSS
+*JS
